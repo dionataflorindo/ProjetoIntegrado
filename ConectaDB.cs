@@ -13,7 +13,7 @@ namespace ProjetoIntegrado
 
         public ConectaDB()
         {
-            ConexaoDB = "Data Source=DESKTOP-R45EGP4;Initial Catalog=SeuBancoDeDados;Integrated Security=True";
+            ConexaoDB = "Data Source=DESKTOP-R45EGP4;Initial Catalog=ProjetoIntegradoControleEstoque;Integrated Security=True";
         }
 
         public SqlConnection ConectarBanco()
